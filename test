@@ -1,16 +1,16 @@
-steps:
-# Build the container image
-- name: 'gcr.io/cloud-builders/npm'
-  arg: ['install']
+# steps:
+# # Build the container image
+# - name: 'gcr.io/cloud-builders/npm'
+#   arg: ['install']
 
-- name: 'gcr.io/cloud-builders/npm'
-  arg: ['run', 'test:unit']
+# - name: 'gcr.io/cloud-builders/npm'
+#   arg: ['run', 'test:unit']
 
-- name: 'gcr.io/cloud-builders/npm'
-  arg: ['run', 'build']
+# - name: 'gcr.io/cloud-builders/npm'
+#   arg: ['run', 'build']
   
-- name: 'gcr.io/cloud-builders/npm'
-  arg: ['deploy']
+# - name: 'gcr.io/cloud-builders/npm'
+#   arg: ['deploy']
 # - name: gcr.io/cloud-builders/docker
 #   args: ['build', '-t', 'gcr.io/$PROJECT_ID/${_SERVICE_NAME}:${SHORT_SHA}', '.']
 #   id: Building the container image
