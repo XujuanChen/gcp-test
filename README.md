@@ -12,3 +12,6 @@ gcloud app delpoy app.yaml<br />
 <br />
 it will take about 10 minutes to deloy, when it's done,<br />
 go to APP ENGINE -> Services -> click default to open the url<br />
+
+<br />
+remove folder on cloud shell:  rm -rf folder_name<br />
