@@ -15,3 +15,15 @@ go to APP ENGINE -> Services -> click default to open the url<br />
 
 <br />
 remove folder on cloud shell:  rm -rf folder_name<br />
+
+
+<br/>
+<br/>
+Use Cloud SDK    
+# run python3 -V
+# Use the python3 interpreter on your path
+# export CLOUDSDK_PYTHON=python3   
+# download Cloud SDK
+# run ./google-cloud-sdk/install.sh
+# run ./google-cloud-sdk/bin/gcloud init
+# choose a number for a project to connect
