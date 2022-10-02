@@ -33,3 +33,4 @@ run ./google-cloud-sdk/bin/gcloud init
 
 choose a number for a project to connect
 
+expample: https://sdk-deploy-364316.ue.r.appspot.com
