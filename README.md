@@ -44,3 +44,9 @@ go to VScode -> setteing -> commad pallette -> Python: Create Terminal
 run gcloud app deploy
 
 expample: https://sdk-deploy-364316.ue.r.appspot.com
+
+# Delete
+
+1. APP engine -> setting -> disable application -> input app ID -> wait about 15 days
+
+2. IAM & ADDMIN -> Manage Resources -> delete
