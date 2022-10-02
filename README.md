@@ -49,4 +49,4 @@ expample: https://sdk-deploy-364316.ue.r.appspot.com
 
 1. APP engine -> setting -> disable application -> input app ID -> wait about 15 days
 
-2. IAM & ADDMIN -> Manage Resources -> delete
+2. IAM & ADMIN -> Manage Resources -> delete
