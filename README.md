@@ -19,17 +19,17 @@ remove folder on cloud shell:  rm -rf folder_name<br />
 <br/>
 Use Cloud SDK
 
-# run python3 -V
+run python3 -V
 
-# Use the python3 interpreter on your path
+Use the python3 interpreter on your path
 
-# export CLOUDSDK_PYTHON=python3 
+run export CLOUDSDK_PYTHON=python3 
 
-# download Cloud SDK
+download Cloud SDK
 
-# run ./google-cloud-sdk/install.sh
+run ./google-cloud-sdk/install.sh
 
-# run ./google-cloud-sdk/bin/gcloud init
+run ./google-cloud-sdk/bin/gcloud init
 
-# choose a number for a project to connect
+choose a number for a project to connect
 
