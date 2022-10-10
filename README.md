@@ -1,7 +1,6 @@
 # gcp-test
 Google Cloud Platform deploy practice:
 
-https://apptest20220925.ue.r.appspot.com/
 
 open google cloud shell
 
